@@ -2,7 +2,7 @@
 
 from __future__ import unicode_literals
 
-from . import _cmark
+from cmarkgfm import _cmark
 
 CMARK_VERSION = "0.29.0.gfm.2"
 
